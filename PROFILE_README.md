@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Mandekar 👋
+# Hi, I'm Nikhil Mandekar 
 
 ### Data Analyst | Mumbai, India
 

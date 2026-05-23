@@ -27,7 +27,7 @@ Currently pursuing a Post-Graduation in **Data Science & Machine Learning** at W
 | Project | Domain | Key Techniques | Tools |
 |---|---|---|---|
 | [🚲 Yulu Demand Analysis](https://github.com/NikhilMandekar/yulu-demand-analysis) | Micro-Mobility | Hypothesis Testing, EDA | Python, SciPy, Seaborn |
-| [🚚 Delhivery Logistics](https://github.com/NikhilMandekar/delhivery-logistics-analysis) | Supply Chain | Feature Engineering, Statistical Validation | Python, Pandas, Scikit-learn |
+| [🚚 Delhivery Logistics]([https://github.com/NikhilMandekar/delhivery-logistics-analysis]) | Supply Chain | Feature Engineering, Statistical Validation | Python, Pandas, Scikit-learn |
 | [🎬 Netflix Content Strategy](https://github.com/NikhilMandekar/netflix-content-strategy) | Media & Streaming | EDA, Bivariate Analysis | Python, Pandas, Seaborn |
 | [🏋️ Aerofit Customer Profiling](https://github.com/NikhilMandekar/aerofit-customer-profiling) | Fitness / Retail | Probability, Segmentation, EDA | Python, Pandas, Seaborn |
 | [🛒 Walmart Black Friday Analysis](https://github.com/NikhilMandekar/walmart-black-friday-analysis) | Retail / Consumer Behaviour | CLT, Confidence Intervals, EDA | Python, SciPy, NumPy |

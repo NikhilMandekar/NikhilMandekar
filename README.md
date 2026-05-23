@@ -28,7 +28,7 @@ Currently pursuing a Post-Graduation in **Data Science & Machine Learning** at W
 |---|---|---|---|
 | [Yulu Demand Analysis](https://github.com/NikhilMandekar/Yulu-Hypothesis-Testing) | Micro-Mobility | Hypothesis Testing, EDA | Python, SciPy, Seaborn |
 | [Delhivery Logistics](https://github.com/NikhilMandekar/Delhivery_Feature-Engineering) | Supply Chain | Feature Engineering, Statistical Validation | Python, Pandas, Scikit-learn |
-| [Netflix Content Strategy](https://github.com/NikhilMandekar/netflix-content-strategy) | Media & Streaming | EDA, Bivariate Analysis | Python, Pandas, Seaborn |
+| [Netflix Content Strategy](https://github.com/NikhilMandekar/Netflix-Data-Exploration) | Media & Streaming | EDA, Bivariate Analysis | Python, Pandas, Seaborn |
 
 ---
 

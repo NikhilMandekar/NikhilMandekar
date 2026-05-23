@@ -8,7 +8,7 @@ Currently pursuing a Post-Graduation in **Data Science & Machine Learning** at W
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -22,19 +22,17 @@ Currently pursuing a Post-Graduation in **Data Science & Machine Learning** at W
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Domain | Key Techniques | Tools |
 |---|---|---|---|
-| [🚲 Yulu Demand Analysis](https://github.com/NikhilMandekar/yulu-demand-analysis) | Micro-Mobility | Hypothesis Testing, EDA | Python, SciPy, Seaborn |
-| [🚚 Delhivery Logistics](https://github.com/NikhilMandekar/Delhivery_Feature-Engineering) | Supply Chain | Feature Engineering, Statistical Validation | Python, Pandas, Scikit-learn |
-| [🎬 Netflix Content Strategy](https://github.com/NikhilMandekar/netflix-content-strategy) | Media & Streaming | EDA, Bivariate Analysis | Python, Pandas, Seaborn |
-| [🏋️ Aerofit Customer Profiling](https://github.com/NikhilMandekar/aerofit-customer-profiling) | Fitness / Retail | Probability, Segmentation, EDA | Python, Pandas, Seaborn |
-| [🛒 Walmart Black Friday Analysis](https://github.com/NikhilMandekar/walmart-black-friday-analysis) | Retail / Consumer Behaviour | CLT, Confidence Intervals, EDA | Python, SciPy, NumPy |
+| [Yulu Demand Analysis](https://github.com/NikhilMandekar/yulu-demand-analysis) | Micro-Mobility | Hypothesis Testing, EDA | Python, SciPy, Seaborn |
+| [Delhivery Logistics](https://github.com/NikhilMandekar/Delhivery_Feature-Engineering) | Supply Chain | Feature Engineering, Statistical Validation | Python, Pandas, Scikit-learn |
+| [Netflix Content Strategy](https://github.com/NikhilMandekar/netflix-content-strategy) | Media & Streaming | EDA, Bivariate Analysis | Python, Pandas, Seaborn |
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmandekar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhil11mandekar@gmail.com)

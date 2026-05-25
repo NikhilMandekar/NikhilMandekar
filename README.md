@@ -2,7 +2,7 @@
 
 ### Data Analyst | Mumbai, India
 
-I turn raw, messy data into decisions that stick. 4+ years working across marketing analytics, logistics, and consumer behaviour — building pipelines, running hypothesis tests, and translating statistical findings into business strategy.
+I turn raw, messy data into decisions that stick. 4+ years working across marketing analytics, logistics, and consumer behaviour - building pipelines, running hypothesis tests, and translating statistical findings into business strategy.
 
 Currently pursuing a Post-Graduation in **Data Science & Machine Learning** at Woolf University (in collaboration with Scaler).
 
